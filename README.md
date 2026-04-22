@@ -61,6 +61,12 @@ A backend project built using Node.js, Express, and MongoDB that allows users to
 
 ---
 
+## 🌐 Live API
+
+https://secure-notes-api-8uy0.onrender.com
+
+---
+
 ## 💡 Future Improvements
 
 - Add frontend (React)
